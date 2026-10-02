@@ -37,7 +37,7 @@ function resumenInventario(productos) {
     totalProductos: productos.length,
     unidadesTotales: unidadesTotales,
     valorInventario: valorInventario,
-    agotados: agotados
+    agotados: agotados, 
   };
 }
 
